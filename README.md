@@ -215,7 +215,8 @@ p1.display()
 
 ### Author
 
-**Yonas Leykun**
-📍 Ethiopia | 💻 Full-Stack Developer | 🎓 Information Systems Student
-🔗 [LinkedIn](https://www.linkedin.com/in/yonas-leykun) 
+**Yonas Getaw**
+📍 Ethiopia | 💻 Full-Stack Developer | 🎓  Software Enginnering Student
+🔗 [github](https://www.github.com/yonasgetaw) 
+
 
